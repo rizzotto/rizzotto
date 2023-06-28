@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Greetings from my portfolio! I work for HP as a software engineer with a focus on frontend design and development. I design aesthetically pleasing interfaces because I have a passion for seamless user experiences. When I'm not coding, you can find me playing video games and cooking new foods to try. With a degree in software engineering, a wide range of interests, and a portfolio that demonstrates my skill in frontend development, I am able to produce applications that are engaging.
+Greetings! I work for HP as a software engineer with a focus on frontend design and development. I design aesthetically pleasing interfaces because I have a passion for seamless user experiences. When I'm not coding, you can find me playing video games and cooking new foods to try. With a degree in software engineering, a wide range of interests, and a portfolio that demonstrates my skill in frontend development, I am able to produce applications that are engaging.
 
 For more info check my [Portfolio](https://portfolio-rizzotto.vercel.app/)
 
