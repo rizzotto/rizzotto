@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Greetings! I'm a software engineer at HP, specializing in frontend development and design systems. With a passion for seamless user experiences, I create visually appealing interfaces. When I'm not coding, you'll find me competing in games and exploring diverse cuisines through cooking. With a degree in software engineering and a diverse range of interests, my github showcases my proficiency in frontend development, highlighting my ability to create engaging applications.
+Greetings! I'm a software engineer at HP, specializing in front-end development and design systems. With a passion for seamless user experiences, I create visually appealing interfaces. When I'm not coding, you'll find me competing in games and exploring diverse cuisines through cooking. With a degree in software engineering and diverse interests, my GitHub showcases my proficiency in frontend development, highlighting my ability to create engaging applications.
 
 For more info check my [Portfolio](https://portfolio-rizzotto.vercel.app/)
 
@@ -13,3 +13,6 @@ For more info check my [Portfolio](https://portfolio-rizzotto.vercel.app/)
 
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=rizzotto&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# Confs
+[ViteConf](https://viteconf.org/23/tickets/rizzotto)
