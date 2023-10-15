@@ -16,3 +16,4 @@ For more info check my [Portfolio](https://portfolio-rizzotto.vercel.app/)
 
 # Confs
 [ViteConf](https://viteconf.org/23/tickets/rizzotto)
+[NextCont](https://nextjs.org/conf/ticket/rizzotto?v=97)
